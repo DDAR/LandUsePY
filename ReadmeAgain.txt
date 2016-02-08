@@ -1,1 +1,0 @@
-This has new text. Isn't it wonderful learning how to use git hub?
